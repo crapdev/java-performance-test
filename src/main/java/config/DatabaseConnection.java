@@ -9,12 +9,12 @@ import java.sql.SQLException;
  *
  * @author cohorte5
  */
-public class Connection {
+public class DatabaseConnection {
     private static final String URL = "jdbc:postgresql://localhost:5432/taller_express";
     private static final String USER = "postgres";
     private static final String PASSWORD = "Zxc.123*";
 
-    private Connection() {
+    private DatabaseConnection() {
     }
 
     public static Connection getConnection() throws SQLException {
