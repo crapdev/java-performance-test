@@ -984,31 +984,22 @@ flowchart LR
 
 ### Inicio de sesión
 
-```markdown
 ![Login](docs/login.png)
-```
 
 ### Menú Administrador
 
-```markdown
 ![Administrador](docs/admin.png)
-```
 
 ### Gestión de Repuestos
 
-```markdown
 ![Repuestos](docs/repuestos.png)
-```
 
 ### Gestión de Clientes y Vehículos
 
-```markdown
 ![Clientes y vehículos](docs/clientes-vehiculos.png)
-```
 
 ### Gestión de Órdenes
 
-```markdown
 ![Órdenes](docs/ordenes.png)
 ```
 
